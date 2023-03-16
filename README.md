@@ -22,23 +22,23 @@ Feature 3：Add, delete, modify and query user modules
 Feature 4：User details, including user purchase information and deletion of purchase information
 
 ## Installation
-Prerequisites
-Node.js 10+
-npm
+Prerequisites  
+Node.js 10+  
+npm  
 
 ## How To Install Dependencies?
-Copy code
-npm install
+Copy code  
+npm install  
 
 
 ## Usage
-Copy code
-npm run serve
-This command will start a development server and run the application at http://localhost:8080.
+Copy code  
+npm run serve  
+This command will start a development server and run the application at http://localhost:8080.  
 
 ## Build
-Copy code
-npm run build
-This command will build the application and output all files to the dist/ directory.
+Copy code  
+npm run build  
+This command will build the application and output all files to the dist/ directory.  
 
 # Finally, I wish you a happy use of this program, and thank you for your use and support!
