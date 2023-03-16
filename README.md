@@ -12,10 +12,10 @@ This is the frontend repository. To access the backend repository, please click:
 https://github.com/David67131/BookBank-Backend
 
 ## Tech Stack: This project is a single-page application built with Vue.js as the frontend framework and Axios as the HTTP client library.
-1.  Vue.js   
-2.  Axios  
-3.  CSS  
-4.  npm  
+1, Vue.js   
+2, Axios  
+3, CSS  
+4, npm  
 
 ## Features
 This project provides the following features:
