@@ -18,11 +18,11 @@ https://github.com/David67131/BookBank-Backend
 4, npm  
 
 ## Features
-This project provides the following features:
-Feature 1：Add, delete, modify and check the book module
-Feature 2：Addition, deletion and modification of the author module
-Feature 3：Add, delete, modify and query user modules
-Feature 4：User details, including user purchase information and deletion of purchase information
+This project provides the following features:  
+Feature 1：Add, delete, modify and check the book module  
+Feature 2：Addition, deletion and modification of the author module  
+Feature 3：Add, delete, modify and query user modules  
+Feature 4：User details, including user purchase information and deletion of purchase information  
 
 ## Installation
 Prerequisites  
