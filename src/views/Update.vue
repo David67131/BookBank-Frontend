@@ -44,7 +44,6 @@ import { saveBook, getAuthorList } from './../api/list'
                 rules: {
                     name: [
                         { required: true, message: 'please enter', trigger: 'blur' },
-                        { min: 1, max: 10, message: '长度在 1 到 10 个字符', trigger: 'blur' }
                     ],
                     author: [
                         { required: true, message: 'please enter', trigger: 'blur' },
