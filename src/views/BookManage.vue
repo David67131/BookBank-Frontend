@@ -34,7 +34,7 @@
   :visible.sync="dialogVisible"
   width="30%"
   >
-  <el-select v-model="value" placeholder="select customer">
+  <el-select v-model="value" placeholder="select customer" no-data-text="No Data" no-match-text="No Data">
     <el-option
       v-for="item in options"
       :key="item.id"

@@ -9,7 +9,7 @@
             <el-input v-model="ruleForm.name"></el-input>
         </el-form-item>
         <el-form-item label="Author" prop="author">
-            <el-select v-model="ruleForm.author" placeholder="please select" style="width: 100%">
+            <el-select v-model="ruleForm.author" placeholder="please select" style="width: 100%" no-data-text="No Data" no-match-text="No Data">
             <el-option
                 v-for="item in options"
                 :key="item.id"
